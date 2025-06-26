@@ -46,8 +46,8 @@ I'm a **Game Developer** with a deep passion for **Unreal Engine 4 & 5**, **UI/U
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitesh-h4u&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-h4u&layout=compact&theme=radical)
 
 ---
 
