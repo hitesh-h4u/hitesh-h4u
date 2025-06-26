@@ -55,7 +55,7 @@ I'm a **Game Developer** with a deep passion for **Unreal Engine 4 & 5**, **UI/U
 
 - 🎯 Portfolio (Coming Soon)
 - 📧 Email: sethyh786@gmail.com
-- 🐦 Twitter/Insta: [@hitesh_h4u]
+- 🐦 Twitter/Insta: @hitesh_h4u
 - 🎮 Discord: hitesh_h4u
 
 ---
